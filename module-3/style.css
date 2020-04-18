@@ -21,14 +21,6 @@ a {
     font-style: normal;
 }
 
-/* Ubuntu fonts */
-@font-face {
-    font-family: 'Ubuntu';
-    src: url(fonts/Ubuntu-Light.ttf) format('truetype');
-    font-weight: 300;
-    font-style: normal;
-}
-
 body {
     font-family: 'PlayFair-Display';
     font-size: 14px;
