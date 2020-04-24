@@ -30,6 +30,12 @@
 	.btn-lower button {
 		width: auto;
 	}
+	.logo {
+		padding-bottom: 0px;
+	}
+	.text {
+		padding-bottom: 0;
+	}
 }
 
 @media (min-width: 1024px) {
@@ -45,5 +51,11 @@
 
 	.text h1 {
 		font-size: 51px;
+	}
+	.logo {
+		padding-bottom: 0px;
+	}
+	.text {
+		padding-bottom: 0;
 	}
 }
