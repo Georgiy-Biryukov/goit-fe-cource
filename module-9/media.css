@@ -1,0 +1,61 @@
+@media (min-width: 768px) {
+	/*.container{
+		max-width: 490px;
+	}*/
+
+	.head {
+		flex-direction: row;
+		justify-content: space-between;
+	}
+	nav {
+		margin-bottom: 0;
+}
+	.holiday{
+		padding-top: 0;
+	}
+
+	.text {
+		font-size: 24px;
+	}
+
+	/*.cards {
+		flex-direction: row;
+	}*/
+
+	.card {
+		/*width: 50%;*/
+		padding: 0 15px 15px;
+	}
+
+	.btn-lower button {
+		width: auto;
+	}
+	.logo {
+		padding-bottom: 0px;
+	}
+	.text {
+		padding-bottom: 0;
+	}
+}
+
+@media (min-width: 1024px) {
+	/*.container {
+	max-width: 942px;
+	}*/
+	/*.cards {
+		flex-direction: row;
+	}
+	.card {
+		width: 25%;
+	}*/
+
+	.text h1 {
+		font-size: 51px;
+	}
+	.logo {
+		padding-bottom: 0px;
+	}
+	.text {
+		padding-bottom: 0;
+	}
+}
